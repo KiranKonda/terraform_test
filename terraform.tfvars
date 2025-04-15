@@ -1,0 +1,6 @@
+rg_name              = "cmtr-otdott2m-mod3-rg"
+storageaccount_name  = "cmtrotdott2msa1744720376"
+vnet_name            = "cmtr-otdott2m-mod3-vnet"
+subnet1_name         = "frontend"
+subnet2_name         = "backend"
+student_email        = "phani_konda@epam.com"
