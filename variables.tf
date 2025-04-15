@@ -1,26 +1,26 @@
 variable "rg_name" {
   type        = string
-  description = "rg_name"
+  description = "mtr-otdott2m-mod3-rg"
 }
 
 variable "storageaccount_name" {
   type        = string
-  description = "storageaccount_name"
+  description = "cmtrotdott2msa1744720376"
 }
 
 variable "vnet_name" {
   type        = string
-  description = "vnet_name"
+  description = "cmtr-otdott2m-mod3-vnet"
 }
 
 variable "subnet1_name" {
   type        = string
-  description = "subnet1_name"
+  description = "frontend"
 }
 
 variable "subnet2_name" {
   type        = string
-  description = "subnet2_name"
+  description = "backend"
 }
 
 variable "student_email" {
